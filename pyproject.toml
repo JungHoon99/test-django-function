@@ -1,0 +1,9 @@
+[project]
+name = "searchvectortest"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "django>=5.1.7",
+    "psycopg2-binary>=2.9.10",
+]
