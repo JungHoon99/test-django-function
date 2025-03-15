@@ -1,4 +1,4 @@
-# SearchVectorTest Project
+# Django 다양한 기능 도전 Project
 
 이 프로젝트는 Django와 PostgreSQL을 사용하여 구현된 텍스트 검색 벡터(Search Vector) 기능과 데이터베이스 연결 풀링(Connection Pool)을 테스트하는 애플리케이션입니다.
 
